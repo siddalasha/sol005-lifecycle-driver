@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-String tarquinBranch = "develop"
+String tarquinBranch = "java-11-drivers"
 
 library "tarquin@$tarquinBranch"
 
